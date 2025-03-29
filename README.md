@@ -4,7 +4,7 @@
 
 - 👍 Meu nome é Vinícius
 - 💻 Graduando em Bacharelado em Tecnologia da Informação 
-- 🌱 Atualmente estou aprendendo Javascript.
+- 🌱 Atualmente estudando conceitos aprofundados de linguagem de programação.
 - 🤔 Aceito qualquer tipo de dicas de estudos.
 - 👌 Gosto de aprender coisas novas
 

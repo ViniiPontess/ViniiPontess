@@ -1,6 +1,15 @@
 
+# Bem vindo ao meu Github 
 
-### Olá, me chamo Vinícius e atualmente estou graduando em Bacharelado em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte, comecei a estudar programação aos 15 anos, e sei o básico de algumas linguagens.
 
+- 👍 Meu nome é Vinícius
+- 💻 Graduando em Bacharelado em Tecnologia da Informação 
 - 🌱 Atualmente estou aprendendo Javascript.
 - 🤔 Aceito qualquer tipo de dicas de estudos.
+- 👌 Gosto de aprender coisas novas
+
+---
+
+### Minhas tecnologias
+
+![C](https://icongr.am/devicon/c-original.svg?size=128&color=currentColor)

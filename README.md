@@ -8,7 +8,7 @@
 - 🤔 Aceito qualquer tipo de dicas de estudos.
 - 👌 Gosto de aprender coisas novas
 
----
+-----------
 
 ### Minhas tecnologias
 

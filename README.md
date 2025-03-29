@@ -12,4 +12,4 @@
 
 ### Minhas tecnologias
 
-<img src = "https://icongr.am/devicon/c-original.svg?size=128&color=currentColo" width = "100px">
+<img src = "https://icongr.am/devicon/c-original.svg?size=128&color=currentColo" width = "40px">
